@@ -9,18 +9,15 @@ As this project has different implementations of the Quicksort Alogrithm, the te
 
 To compile file that does <b>NOT</b> implement pthread:
 ```
-
 cc -O2 filename.c -o filename
 ```
 
 To complie a file that does implement pthread:
 ```
-
 cc -O2 filename.c -o filename -pthread
 ```
 
 Finally, to run the program run the following command (Note: the 1000000 can be adjusted):
 ```
-
 time ./filename 1000000
 ```
