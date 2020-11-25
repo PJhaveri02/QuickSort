@@ -17,7 +17,7 @@ To complie a file that does implement pthread:
 cc -O2 filename.c -o filename -pthread
 ```
 
-Finally, to run the program run the following command (Note: the 1000000 can be adjusted):
+Finally, to run the program run the following command (<b>Note:</b> the 1000000 can be adjusted):
 ```
 time ./filename 1000000
 ```
