@@ -7,7 +7,7 @@ In order to run this project (and its individual files) you must be using a Unix
 ## Running the Program on Command Line
 As this project has different implementations of the Quicksort Alogrithm, the terminal commands will vary accordingly.
 
-To compile file that does <b>NOT</> implement pthread:
+To compile file that does <b>NOT</b> implement pthread:
 ```
 
 cc -O2 filename.c -o filename
