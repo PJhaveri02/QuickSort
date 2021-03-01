@@ -1,5 +1,5 @@
 # QuickSort
-The following project parallelises the Quicksort algorithm using the C programming language. The purpose of this project was to determine the most efficient method of parallelising the Quicksort Algorithm.
+The following project parallelises the Quicksort algorithm using the C programming language. The purpose of this project was to determine the most efficient and effective method of parallelising the Quicksort Algorithm.
 
 ## Prerequisites
 In order to run this project (and its individual files) you must be using a Unix based operating system. Otherwise, you will not be able to run the different versions of quicksort.
